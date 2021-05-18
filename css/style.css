@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+/* header start  */
+.header{
+    overflow: hidden;
+    width: 100%;
+}
+.logo{
+    width: 15%;
+    height: 60px;
+    background-color: rgb(56, 0, 187);
+    text-align: center;
+    float: left;
+}
+.logo h1{
+    color: rgba(255, 250, 225, 0.788);
+}
+.menu{
+    width: 85%;
+    height: 60px;
+    background-color: rgb(255, 5, 84);
+    text-align: center;
+    float: left;
+}
+.menu h1{
+    color: cornsilk;
+}
+/* header end */
+/* slider start  */
+.slider{
+    width: 100%;
+    height: 300px;
+    background-color: darkmagenta;
+    text-align: center;
+}
+/* slider end  */
+/* content start  */
+.content{
+    overflow: hidden;
+    width: 100%;
+}
+.content_l{
+width: 45%;
+height: 250px;
+background-color: rgb(35, 24, 105);
+text-align: center;
+float: left;
+}
+.content_r{
+overflow: hidden;
+width: 55%;
+height: 250px;
+float: left;
+}
+.image{
+width: 100%;
+height: 50%;
+background-color: deepskyblue;
+text-align: center;
+}
+.extra{
+    width: 100%;
+    height: 50%;
+    background-color: goldenrod;
+    text-align: center;
+}
+/* content end  */
+/* footer start  */
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+.footer h1{
+    color: whitesmoke;
+}
+/* footer end  */
